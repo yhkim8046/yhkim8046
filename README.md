@@ -39,6 +39,6 @@ I've gained a solid understanding of various concepts including:
 - **Mastering Spring Boot:** Exploring Internal Server Configurations, Automatic Library Management, Configuration Externalization, and Monitoring Functions.
 
 ### Extra Curricular
-- **Microsoft Student Accelerate Programme (Starting April/2024)**
+- **Microsoft Student Accelerator Programme (Starting April/2024)**
 
 Feel free to explore my projects and repositories. Your feedback and collaboration are always welcome! 🚀
