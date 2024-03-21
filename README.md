@@ -22,6 +22,7 @@ I am junior Java developer and curretly studying at Auckland University of Techn
 - 🔭 I’m currently working digital moana project with one of Kiwi Start-up - 1 year project
 
 What I have done: 
+
 Basic concept of Spring boot including OOP, Spring, Spring Container, Spring bean, Singleton Container, Component Scan, IoC and DI, Bean's life cycle, Bean Scope
 HTTP: Internet Network, URI and Process of Web Browers, Basic HTTP knowledge, HTTP methods, Practice of using HTTP methods, HTTP code(ex 404), HTTP header, HTTP cache
 Basic Web MVC: Web server, Servlet, Multi Thread, HTML, HTTP API, CSR, SSR, JSP, MVC pattern, MVC framework
