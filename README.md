@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 👋 Welcome to my GitHub!
 
 ### About Me
-I'm a junior Java developer currently pursuing my studies at Auckland University of Technology, specializing in Software Development.
+I'm a junior Java developer aiming Devops engineer
+
+Currently pursuing my studies at Auckland University of Technology, specializing in Software Development. 
+
+
 
 ### Current Focus
 - 🌱 I’m currently diving deep into Java Spring Boot.
@@ -38,6 +42,11 @@ I've gained a solid understanding of various concepts including:
 - **Spring AOP:** Understanding Proxies, Principles of Spring AOP, Real-world Applications, and Industry Challenges.
 - **Mastering Spring Boot:** Exploring Internal Server Configurations, Automatic Library Management, Configuration Externalization, and Monitoring Functions.
 
+(Expected Completion: Before November/2024)
+- **Kafka**
+- **Docker**  
+- **Kubernetes**
+  
 ### Extra Curricular
 - **Microsoft Student Accelerator Programme (Starting April/2024)**
 
