@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 I am junior Java developer and curretly studying at Auckland University of Technology majoring in Software Development.  
 
 - 🌱 I’m currently learning Spring boot
+- 🔭 I’m currently working digital moana project with one of Kiwi Start-up
