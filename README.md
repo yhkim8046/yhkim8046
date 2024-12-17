@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## README
 
 👋 Welcome to my GitHub!
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ###
 Graduated from Auckland University of Technology
 Majored in Computer and Information Sciences in Software Development
