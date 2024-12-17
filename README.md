@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 -->
 ## README
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20There&fontSize=90)
-###
+
+🎓
 Graduated from Auckland University of Technology
 Majored in Computer and Information Sciences in Software Development
 Minored in Business management
