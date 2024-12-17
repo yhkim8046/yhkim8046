@@ -22,7 +22,7 @@ Minored in Business management
 
 ### 
 Kakao X Groom Groomthon Deep Dive - Cloud Native engineering
-https://deepdive.goorm.io
+[https://deepdive.goorm.io](https://deepdive.goorm.io/cloud-native)
 
 Awards: 
 Kakao X Groom Groomthon Deep Dive Hackathon - Awarded Third Place (Excellence Award, Team leader, Backend developer)
