@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 Graduated from Auckland University of Technology
 Majored in Computer and Information Sciences in Software Development
 Minored in Business management
-https://www.myequals.net/sharelink/3d069144-c8b6-43b2-909e-31304cd5ac31/90d42316-252a-4890-a08f-b62e8275ed60
-
-
 
 ### 
 Kakao X Groom Groomthon Deep Dive - Cloud Native engineering
