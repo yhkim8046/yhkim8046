@@ -23,7 +23,7 @@ Minored in Business management
 Kakao X Groom Groomthon Deep Dive - Cloud Native engineering
 [https://deepdive.goorm.io](https://deepdive.goorm.io/cloud-native)
 
-Awards: 
+🏆 
 Kakao X Groom Groomthon Deep Dive Hackathon - Awarded Third Place (Excellence Award, Team leader, Backend developer)
 
 Projects: 
@@ -32,5 +32,4 @@ Kaiako is a mobile learning platform designed to enhance understanding of Māori
 link: https://cultureanddesignlab.com/blog/article-753644
 
 ## 🏆 AWS Certified Solutions Architect - Associate
-![AWS SAA](https://images.credly.com/images/47cf8159-ba42-436a-9d66-0408705542b3/aws-certified-solutions-architect-associate.png)
-[🔗 View my badge on Credly](https://www.credly.com/badges/47cf8159-ba42-436a-9d66-0408705542b3/public_url)
+![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/13d2efa1-93ab-4ec0-bd3c-11d87280826f)
