@@ -20,11 +20,11 @@ Majored in Computer and Information Sciences in Software Development
 Minored in Business management
 
 ### 
-Kakao X Groom Groomthon Deep Dive - Cloud Native engineering
+Kakao X Goorm Groomthon Deep Dive - Cloud Native engineering
 [https://deepdive.goorm.io](https://deepdive.goorm.io/cloud-native)
 
 🏆 
-Kakao X Groom Groomthon Deep Dive Hackathon - Awarded Third Place (Excellence Award, Team leader, Backend developer)
+Kakao X Goorm Groomthon Deep Dive Hackathon - Awarded Third Place (Excellence Award, Team leader, Backend developer)
 
 Projects: 
 Kaiako - Graduation Project 
