@@ -20,7 +20,7 @@ Majored in Computer and Information Sciences in Software Development
 Minored in Business management
 
 ### 
-Kakao X Goorm Groomthon Deep Dive - Cloud Native engineering
+Kakao X Goorm Goormthon Deep Dive - Cloud Native engineering
 [https://deepdive.goorm.io](https://deepdive.goorm.io/cloud-native)
 
 🏆 
