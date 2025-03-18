@@ -31,5 +31,9 @@ Kaiako - Graduation Project
 Kaiako is a mobile learning platform designed to enhance understanding of Māori culture and language. This project was developed as part of my graduation program at Auckland University of Technology (AUT), in collaboration with The Culture and Design Lab. Read more about the project here.
 link: https://cultureanddesignlab.com/blog/article-753644
 
-## 🏆 AWS Certified Solutions Architect - Associate
+## Certifications:
+
+# 🏆 AWS Certified Solutions Architect - Associate
 ![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/13d2efa1-93ab-4ec0-bd3c-11d87280826f)
+
+# Certified Kubernetes Administrator (Ongoing)
