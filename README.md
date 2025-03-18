@@ -33,7 +33,7 @@ link: https://cultureanddesignlab.com/blog/article-753644
 
 ## Certifications:
 
-# 🏆 AWS Certified Solutions Architect - Associate
+🏆 AWS Certified Solutions Architect - Associate
 ![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/13d2efa1-93ab-4ec0-bd3c-11d87280826f)
 
-# Certified Kubernetes Administrator (Ongoing)
+Certified Kubernetes Administrator (Ongoing)
