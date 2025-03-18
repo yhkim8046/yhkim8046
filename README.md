@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 🎓
 Graduated from Auckland University of Technology
-Majored in Computer and Information Sciences in Software Development
+Majored in Computer and Information Sciences, Software Development
 Minored in Business management
 
 ### 
