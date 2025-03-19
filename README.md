@@ -28,7 +28,7 @@ Kakao X Goorm Groomthon Deep Dive Hackathon - Awarded Third Place (Excellence Aw
 
 Projects: 
 Kaiako - Graduation Project 
-Kaiako is a mobile learning platform designed to enhance understanding of Māori culture and language. This project was developed as part of my graduation program at Auckland University of Technology (AUT), in collaboration with The Culture and Design Lab. Read more about the project here.
+Kaiako is a mobile learning platform which is designed to enhance understanding of Māori culture and language. This project was developed as part of my graduation program at Auckland University of Technology (AUT), in collaboration with The Culture and Design Lab. Read more about the project here.
 link: https://cultureanddesignlab.com/blog/article-753644
 
 ## Certifications:
