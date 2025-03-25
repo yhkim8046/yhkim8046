@@ -19,7 +19,6 @@ Graduated from Auckland University of Technology
 Majored in Computer and Information Sciences, Software Development
 Minored in Business management
 
-
 ### 
 Kakao X Goorm Goormthon Deep Dive - Cloud Native engineering
 [https://deepdive.goorm.io](https://deepdive.goorm.io/cloud-native)
