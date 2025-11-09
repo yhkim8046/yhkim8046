@@ -37,4 +37,4 @@ link: https://cultureanddesignlab.com/blog/article-753644
 ![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/13d2efa1-93ab-4ec0-bd3c-11d87280826f)
 
 🏆 Certified Kubernetes Administrator
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a2f4855-cad2-4f5e-af6c-10f9b0835d52" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img width="108" height="108" alt="cka-certified-kubernetes-administrator" src="https://github.com/user-attachments/assets/946b224a-ef37-4b9c-987b-d59ade49bb46" />
