@@ -37,4 +37,4 @@ link: https://cultureanddesignlab.com/blog/article-753644
 ![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/13d2efa1-93ab-4ec0-bd3c-11d87280826f)
 
 🏆 Certified Kubernetes Administrator
-<img width="108" height="108" alt="cka-certified-kubernetes-administrator" src="https://github.com/user-attachments/assets/946b224a-ef37-4b9c-987b-d59ade49bb46" />
+<img width="130" height="130" alt="cka-certified-kubernetes-administrator" src="https://github.com/user-attachments/assets/946b224a-ef37-4b9c-987b-d59ade49bb46" />
