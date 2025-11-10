@@ -32,9 +32,4 @@ Kaiako is a mobile learning platform which is designed to enhance understanding 
 link: https://cultureanddesignlab.com/blog/article-753644
 
 ## Certifications:
-
-🏆 AWS Certified Solutions Architect - Associate
-![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/13d2efa1-93ab-4ec0-bd3c-11d87280826f)
-
-🏆 Certified Kubernetes Administrator
-<img width="130" height="130" alt="cka-certified-kubernetes-administrator" src="https://github.com/user-attachments/assets/946b224a-ef37-4b9c-987b-d59ade49bb46" />
+<img width="1132" height="755" alt="image" src="https://github.com/user-attachments/assets/b9360f4f-c3e8-48ab-bd0e-ab49880d1074" />
